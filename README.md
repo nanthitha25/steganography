@@ -28,18 +28,14 @@ METHOD INVOLVED IN STEGANOGRAPHY:
                           collection of color pixels. The individual pixels can be represented by their optical
                           characteristics like 'brightness', 'chroma' etc. Each of these characteristics can be
                           digitally expressed in terms of 1s and 0s.
-                          
-                          
-                          For example: a 24-bit bitmap will have 8 bits, representing each of the threecolor values (red, green, and blue) at each pixel. If we       consider just the bluethere will be 28 different values of blue. The difference between 11111111 and11111110 in the value for blue intensity is likely to be undetectable by the
-             human eye. Hence, if the terminal recipient of the data is nothing but human
-             visual system (HVS) then the Least Significant Bit (LSB) can be used for
-             something else other than color information.
-
-
-This technique can be directly applied on digital image in bitmap format as well
+                            
+                           For example: a 24-bit bitmap will have 8 bits, representing each of the threecolor values (red, green, and blue) at each pixel. If we consider just the blueIf we consider just the blue there will be 28 different values of blue. The difference between 11111111 and 11111110 in the value for blue intensity is likely to be undetectable by thehuman eye. Hence, if the terminal recipient of the data is nothing but human visual system (HVS) then the Least Significant Bit (LSB) can be used forsomething else other than color information.
+                           
+                           
+                           This technique can be directly applied on digital image in bitmap format as well
 as for the compressed image format like JPEG. In JPEG format, each pixel of the
 image is digitally coded using discrete cosine transformation (DCT). The LSB of
-encoded DCT components can be used as the carriers of the hidden message.
+encoded DCT components can be used as the carriers of the hidden message
 
 use case of steganography:
 
