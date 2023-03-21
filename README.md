@@ -57,6 +57,13 @@ use case of steganography:
 
                           < Digital Forensics: used in digital forensics, where investigators use it to detect the presence of hidden messages or files in images as part of their investigations.
                      
+                     
+                     
+                     
+                     
+ CONCLUSION:
+
+          In conclusion, image steganography is a technique for hiding secret data within an image in such a way that it remains hidden from unauthorized viewers. It is a popular method for secure communication, digital watermarking, and copyright protection. By altering the pixel values or other characteristics of an image, hidden information can be embedded within the image while maintaining its overall appearance
 
                                
       
