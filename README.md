@@ -25,7 +25,7 @@ USE CASE:
               
  ALGORITHM USED HERE:
            
-           * Secret Key: In symmetric-key cryptography, a secret key is used to encrypt and decrypt the information. The same key is used to hide and retrieve the hidden information in the image.
+     
           
         
       
