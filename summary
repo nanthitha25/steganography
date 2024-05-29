@@ -8,4 +8,4 @@ in the image's frequency domain, enhancing resistance to image processing at the
 cost of higher complexity. Spread spectrum techniques distribute data using
 pseudorandom noise patterns for high security, while adaptive steganography adjusts
 embedding based on image content for better imperceptibility. The choice of method depends
- on the desired balance of security, robustness, and computational efficiency.
+on the desired balance of security, robustness, and computational efficiency.
