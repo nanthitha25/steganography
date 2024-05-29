@@ -24,6 +24,11 @@ USE CASE:
                * Secret Key: In symmetric-key cryptography, a secret key is used to encrypt and decrypt the information. The same key is used to hide and retrieve the hidden information in the image. 
               
  ALGORITHM USED HERE:
+       1.Least Significant Bit (LSB) Insertion
+       2.LSB Matching (LSBM)
+       3.Masking and Filtering
+       4.Transform Domain Techniques
+       5.Adaptive Steganography
            
      
           
