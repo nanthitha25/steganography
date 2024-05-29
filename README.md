@@ -19,11 +19,7 @@ USE CASE:
            *  Digital forensic investigators must stay up-to-date with the latest steganography techniques and steganalysis tools to effectively investigate crimes and bring criminals to justice.
            
            
- KEYS USED IN THE PROJECT:
-              
-               * Secret Key: In symmetric-key cryptography, a secret key is used to encrypt and decrypt the information. The same key is used to hide and retrieve the hidden information in the image. 
-              
- ALGORITHM USED HERE:
+
            
      
           
