@@ -1,0 +1,11 @@
+Image steganography hides secret data within an image without noticeable visual changes.
+Common methods include Least Significant Bit (LSB) insertion, which modifies the least
+significant bits of pixel values, and LSB matching, which slightly alters pixel values
+to match secret data, both offering simplicity but being vulnerable to detection and
+modifications. More robust techniques like Discrete Cosine Transform (DCT),
+Discrete Wavelet Transform (DWT), and Discrete Fourier Transform (DFT) embed data
+in the image's frequency domain, enhancing resistance to image processing at the
+cost of higher complexity. Spread spectrum techniques distribute data using
+pseudorandom noise patterns for high security, while adaptive steganography adjusts
+embedding based on image content for better imperceptibility. The choice of method depends
+ on the desired balance of security, robustness, and computational efficiency.
